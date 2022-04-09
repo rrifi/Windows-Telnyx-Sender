@@ -6,6 +6,6 @@ A program which allow you to send SMS with sender ID. Provide your API Key &amp;
 --------------------------------------------------------------------------------
 API Infos : 
 
--First connect to you Telnyx Account
+-First connect to you Telnyx Account <br/>
 -Get your API Key here : https://portal.telnyx.com/#/app/api-keys <br/>
 -Get your Messaging Profile ID here : https://portal.telnyx.com/#/app/messaging
